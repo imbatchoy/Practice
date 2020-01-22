@@ -44,7 +44,7 @@ body{
 
 .main-header{
 	background-color: rgba(0, 0, 0, .6);
-	background-image: url("Images/header.jpg");
+	background-image: url("header.jpg");
 	background-blend-mode: multiply;
 	background-size: cover;
 	padding-bottom: 30px;
